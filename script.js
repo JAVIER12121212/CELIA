@@ -1,10 +1,10 @@
 const messages = [
-    "Te amo más de lo que las palabras pueden expresar.",
-    "Cada día a tu lado es una nueva aventura.",
-    "Eres mi razón para sonreír siempre.",
+    "Ponte a estudiar.",
+    "Vaya lorcitas...",
+    "Soy el mejor novio de la historia.",
     "Cada momento contigo es un regalo.",
-    "No importa lo que pase, siempre estaré a tu lado.",
-    "Te quiero más de lo que te imaginas. 💖"
+    "Diego Costa te echo de menos.",
+    "Probando, Probando. 💖"
 ];
 
 function generateMessage() {
