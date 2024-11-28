@@ -11,7 +11,8 @@ ya no tiene aquel tono cálido
 de antes, ni la complicidad
 de siempre, sólo son palabras
 y su afecto es ahora discreto:
-en tus mensajes ya no hay mensaje."
+en tus mensajes ya no hay mensaje.",
+    
 ];
 
 function generateMessage() {
